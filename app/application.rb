@@ -1,4 +1,4 @@
-lass Application
+class Application
 
   @@items = []
   def call(env)
